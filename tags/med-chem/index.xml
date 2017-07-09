@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Med Chem on Mark Coster</title>
+    <link>https://mcoster.github.io/tags/med-chem/</link>
+    <description>Recent content in Med Chem on Mark Coster</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Mark Coster</copyright>
+    <lastBuildDate>Sun, 09 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/med-chem/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Open Source Malaria</title>
+      <link>https://mcoster.github.io/project/example-external-project/</link>
+      <pubDate>Sun, 09 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcoster.github.io/project/example-external-project/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
