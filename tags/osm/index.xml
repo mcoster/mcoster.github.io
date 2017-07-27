@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Osm on Mark Coster</title>
+    <link>https://mcoster.github.io/tags/osm/</link>
+    <description>Recent content in Osm on Mark Coster</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Mark Coster</copyright>
+    <lastBuildDate>Thu, 27 Jul 2017 22:30:02 +1000</lastBuildDate>
+    <atom:link href="/tags/osm/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Electronic Lab Notebooks (ELN) for the Open Source Malaria (OSM) initiative: A video tutorial</title>
+      <link>https://mcoster.github.io/post/eln-osm/</link>
+      <pubDate>Thu, 27 Jul 2017 22:30:02 +1000</pubDate>
+      
+      <guid>https://mcoster.github.io/post/eln-osm/</guid>
+      <description>&lt;p&gt;This video tutorial gives an overview of how to set up and create entries in an Electronic Lab Notebook (ELN). The focus is on how to use the &lt;a href=&#34;http://www.labtrove.org/&#34; target=&#34;_blank&#34;&gt;LabTrove&lt;/a&gt; ELN system to contribute to the &lt;a href=&#34;http://opensourcemalaria.org/&#34; target=&#34;_blank&#34;&gt;Open Source Malaria initiative&lt;/a&gt; as a synthetic chemist.&lt;/p&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/X_tREXdHRE4&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Using GitHub to contribute to the Open Source Malaria (OSM) initiative: A video tutorial</title>
+      <link>https://mcoster.github.io/post/github-osm/</link>
+      <pubDate>Thu, 27 Jul 2017 22:30:02 +1000</pubDate>
+      
+      <guid>https://mcoster.github.io/post/github-osm/</guid>
+      <description>&lt;p&gt;This video tutorial gives an overview of how to use &lt;a href=&#34;https://github.com/&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt; to contribute to the &lt;a href=&#34;http://opensourcemalaria.org/&#34; target=&#34;_blank&#34;&gt;Open Source Malaria initiative&lt;/a&gt;.&lt;/p&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/EK1kxajBfEQ&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

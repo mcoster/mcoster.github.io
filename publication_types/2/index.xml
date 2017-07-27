@@ -7,13 +7,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Mark Coster</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Mar 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="/publication_types/2/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>A bidirectional synthesis of spiroacetals via Rh(II)-catalysed C-H insertion.</title>
       <link>https://mcoster.github.io/publication/lepage2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 24 Mar 2017 00:00:00 +0000</pubDate>
       
       <guid>https://mcoster.github.io/publication/lepage2017/</guid>
       <description></description>
@@ -47,20 +47,20 @@
     </item>
     
     <item>
+      <title>Rhodium(II)-catalyzed intramolecular C-H insertion α- to oxygen: reactivity, selectivity and applications to natural product synthesis.</title>
+      <link>https://mcoster.github.io/publication/lombard2015/</link>
+      <pubDate>Tue, 12 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcoster.github.io/publication/lombard2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Panel docking of small-molecule libraries - Prospects to improve efficiency of lead compound discovery.</title>
       <link>https://mcoster.github.io/publication/sarnpitak2015/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
       <guid>https://mcoster.github.io/publication/sarnpitak2015/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rhodium(II)-catalyzed intramolecular C-H insertion α- to oxygen: reactivity, selectivity and applications to natural product synthesis.</title>
-      <link>https://mcoster.github.io/publication/lombard2015/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://mcoster.github.io/publication/lombard2015/</guid>
       <description></description>
     </item>
     
@@ -110,6 +110,15 @@
     </item>
     
     <item>
+      <title>Synthesis and Evaluation of Anticancer Natural Product Analogues Based on Angelmarin: Targeting the Tolerance towards Nutrient Deprivation.</title>
+      <link>https://mcoster.github.io/publication/magolan2012a/</link>
+      <pubDate>Fri, 16 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcoster.github.io/publication/magolan2012a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>3,4&#39;-Linked bis(piperidines) related to the haliclonacyclamine class of marine alkaloids: synthesis using crossed-aldol chemistry and preliminary biological evaluations.</title>
       <link>https://mcoster.github.io/publication/banwell2012/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
@@ -119,29 +128,20 @@
     </item>
     
     <item>
-      <title>Synthesis and Evaluation of Anticancer Natural Product Analogues Based on Angelmarin: Targeting the Tolerance towards Nutrient Deprivation.</title>
-      <link>https://mcoster.github.io/publication/magolan2012a/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      
-      <guid>https://mcoster.github.io/publication/magolan2012a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>A Concise Route to Dihydrobenzo[b]furans: Formal Total Synthesis of (&#43;)-Lithospermic Acid.</title>
       <link>https://mcoster.github.io/publication/fischer2011/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 07 Jun 2011 00:00:00 +0000</pubDate>
       
       <guid>https://mcoster.github.io/publication/fischer2011/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Arylation of [6,6]-spiroacetal enol ethers: reactivity and rearrangement.</title>
-      <link>https://mcoster.github.io/publication/aumann2011a/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <title>Mitochondrial Targeting of Vitamin E Succinate Enhances Its Pro-apoptotic and Anti-cancer Activity via Mitochondrial Complex II.</title>
+      <link>https://mcoster.github.io/publication/dong2011a/</link>
+      <pubDate>Fri, 04 Feb 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://mcoster.github.io/publication/aumann2011a/</guid>
+      <guid>https://mcoster.github.io/publication/dong2011a/</guid>
       <description></description>
     </item>
     
