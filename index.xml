@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mark Coster on Mark Coster</title>
-    <link>https://mcoster.github.io/</link>
+    <link>https://mcoster.net/</link>
     <description>Recent content in Mark Coster on Mark Coster</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,10 +12,10 @@
     
     <item>
       <title>Electronic Lab Notebooks (ELN) for the Open Source Malaria (OSM) initiative: A video tutorial</title>
-      <link>https://mcoster.github.io/post/eln-osm/</link>
+      <link>https://mcoster.net/post/eln-osm/</link>
       <pubDate>Thu, 27 Jul 2017 22:30:02 +1000</pubDate>
       
-      <guid>https://mcoster.github.io/post/eln-osm/</guid>
+      <guid>https://mcoster.net/post/eln-osm/</guid>
       <description>&lt;p&gt;This video tutorial gives an overview of how to set up and create entries in an Electronic Lab Notebook (ELN). The focus is on how to use the &lt;a href=&#34;http://www.labtrove.org/&#34; target=&#34;_blank&#34;&gt;LabTrove&lt;/a&gt; ELN system to contribute to the &lt;a href=&#34;http://opensourcemalaria.org/&#34; target=&#34;_blank&#34;&gt;Open Source Malaria initiative&lt;/a&gt; as a synthetic chemist.&lt;/p&gt;
 
 &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/X_tREXdHRE4&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
@@ -24,10 +24,10 @@
     
     <item>
       <title>Using GitHub to contribute to the Open Source Malaria (OSM) initiative: A video tutorial</title>
-      <link>https://mcoster.github.io/post/github-osm/</link>
+      <link>https://mcoster.net/post/github-osm/</link>
       <pubDate>Thu, 27 Jul 2017 22:30:02 +1000</pubDate>
       
-      <guid>https://mcoster.github.io/post/github-osm/</guid>
+      <guid>https://mcoster.net/post/github-osm/</guid>
       <description>&lt;p&gt;This video tutorial gives an overview of how to use &lt;a href=&#34;https://github.com/&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt; to contribute to the &lt;a href=&#34;http://opensourcemalaria.org/&#34; target=&#34;_blank&#34;&gt;Open Source Malaria initiative&lt;/a&gt;.&lt;/p&gt;
 
 &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/EK1kxajBfEQ&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
@@ -36,118 +36,118 @@
     
     <item>
       <title>Open Source Malaria</title>
-      <link>https://mcoster.github.io/project/osm-project/</link>
+      <link>https://mcoster.net/project/osm-project/</link>
       <pubDate>Sun, 09 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://mcoster.github.io/project/osm-project/</guid>
+      <guid>https://mcoster.net/project/osm-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A bidirectional synthesis of spiroacetals via Rh(II)-catalysed C-H insertion.</title>
-      <link>https://mcoster.github.io/publication/lepage2017/</link>
+      <link>https://mcoster.net/publication/lepage2017/</link>
       <pubDate>Fri, 24 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://mcoster.github.io/publication/lepage2017/</guid>
+      <guid>https://mcoster.net/publication/lepage2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Enzyme characteristics of pathogen-specific trehalose-6-phosphate phosphatases</title>
-      <link>https://mcoster.github.io/publication/cross2017a/</link>
+      <link>https://mcoster.net/publication/cross2017a/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://mcoster.github.io/publication/cross2017a/</guid>
+      <guid>https://mcoster.net/publication/cross2017a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Probing function and structure of trehalose-6-phosphate phosphatases from pathogenic organisms suggests distinct molecular groupings.</title>
-      <link>https://mcoster.github.io/publication/cross2017/</link>
+      <link>https://mcoster.net/publication/cross2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://mcoster.github.io/publication/cross2017/</guid>
+      <guid>https://mcoster.net/publication/cross2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The design, synthesis, and anti-inflammatory evaluation of a drug-like library based on the natural product valerenic acid.</title>
-      <link>https://mcoster.github.io/publication/egbewande2017/</link>
+      <link>https://mcoster.net/publication/egbewande2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://mcoster.github.io/publication/egbewande2017/</guid>
+      <guid>https://mcoster.net/publication/egbewande2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rhodium(II)-catalyzed intramolecular C-H insertion α- to oxygen: reactivity, selectivity and applications to natural product synthesis.</title>
-      <link>https://mcoster.github.io/publication/lombard2015/</link>
+      <link>https://mcoster.net/publication/lombard2015/</link>
       <pubDate>Tue, 12 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://mcoster.github.io/publication/lombard2015/</guid>
+      <guid>https://mcoster.net/publication/lombard2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Panel docking of small-molecule libraries - Prospects to improve efficiency of lead compound discovery.</title>
-      <link>https://mcoster.github.io/publication/sarnpitak2015/</link>
+      <link>https://mcoster.net/publication/sarnpitak2015/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://mcoster.github.io/publication/sarnpitak2015/</guid>
+      <guid>https://mcoster.net/publication/sarnpitak2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Synthesis and antimalarial evaluation of amide and urea derivatives based on the thiaplakortone A natural product scaffold.</title>
-      <link>https://mcoster.github.io/publication/schwartz2015a/</link>
+      <link>https://mcoster.net/publication/schwartz2015a/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://mcoster.github.io/publication/schwartz2015a/</guid>
+      <guid>https://mcoster.net/publication/schwartz2015a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Synthesis and antiplasmodial evaluation of analogues based on the tricyclic core of Thiaplakortones A-D.</title>
-      <link>https://mcoster.github.io/publication/schwartz2015/</link>
+      <link>https://mcoster.net/publication/schwartz2015/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://mcoster.github.io/publication/schwartz2015/</guid>
+      <guid>https://mcoster.net/publication/schwartz2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Synthesis of N-alkylsulfonamides by borane-dimethyl sulfide reduction of N-acylsulfonamides.</title>
-      <link>https://mcoster.github.io/publication/james2015/</link>
+      <link>https://mcoster.net/publication/james2015/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://mcoster.github.io/publication/james2015/</guid>
+      <guid>https://mcoster.net/publication/james2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Total Synthesis of Thiaplakortone A: Derivatives as Metabolically Stable Leads for the Treatment of Malaria.</title>
-      <link>https://mcoster.github.io/publication/pouwer2014/</link>
+      <link>https://mcoster.net/publication/pouwer2014/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://mcoster.github.io/publication/pouwer2014/</guid>
+      <guid>https://mcoster.net/publication/pouwer2014/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Total synthesis of (±)-nicolaioidesin B via a highly regio- and diastereoselective Diels-Alder reaction.</title>
-      <link>https://mcoster.github.io/publication/pigott2014/</link>
+      <link>https://mcoster.net/publication/pigott2014/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://mcoster.github.io/publication/pigott2014/</guid>
+      <guid>https://mcoster.net/publication/pigott2014/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Synthesis and Evaluation of Anticancer Natural Product Analogues Based on Angelmarin: Targeting the Tolerance towards Nutrient Deprivation.</title>
-      <link>https://mcoster.github.io/publication/magolan2012a/</link>
+      <link>https://mcoster.net/publication/magolan2012a/</link>
       <pubDate>Fri, 16 Mar 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://mcoster.github.io/publication/magolan2012a/</guid>
+      <guid>https://mcoster.net/publication/magolan2012a/</guid>
       <description></description>
     </item>
     

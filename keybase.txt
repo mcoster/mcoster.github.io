@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/mcoster
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://mcoster.net
+  * I am mcoster (https://keybase.io/mcoster) on keybase.
+  * I have a public key ASBTTea9zgE-jhdsZRXB_OQyNMoMtESK7MqO6jrevBIGAwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120534de6bdce013e8e176c6515c1fce43234ca0cb4448aecca8eea3adebc1206030a",
+      "host": "keybase.io",
+      "kid": "0120534de6bdce013e8e176c6515c1fce43234ca0cb4448aecca8eea3adebc1206030a",
+      "uid": "8141fb023326516d476fc8b7cebfee19",
+      "username": "mcoster"
+    },
+    "merkle_root": {
+      "ctime": 1501216145,
+      "hash": "08df69650c787cc223e3c540620d535b83a946cb4baea9c5b53af4177caf586fdbf4a2c4a5a1e9c7dbb802943790e95a8286bdf3136ce3e0e9b03d70cf14e8ec",
+      "hash_meta": "ca8c7cd941d9a69ac58f19063799c2a9aee89810658b0fa19bb3003ba64a07ce",
+      "seqno": 1287072
+    },
+    "service": {
+      "hostname": "mcoster.net",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.26"
+  },
+  "ctime": 1501216352,
+  "expire_in": 504576000,
+  "prev": "bffc152b6c98549a0ecce8900110826a294328db6045b08dfcacb1394965fa42",
+  "seqno": 9,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgU03mvc4BPo4XbGUVwfzkMjTKDLREiuzKjuo63rwSBgMKp3BheWxvYWTFA0F7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwNTM0ZGU2YmRjZTAxM2U4ZTE3NmM2NTE1YzFmY2U0MzIzNGNhMGNiNDQ0OGFlY2NhOGVlYTNhZGViYzEyMDYwMzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNTM0ZGU2YmRjZTAxM2U4ZTE3NmM2NTE1YzFmY2U0MzIzNGNhMGNiNDQ0OGFlY2NhOGVlYTNhZGViYzEyMDYwMzBhIiwidWlkIjoiODE0MWZiMDIzMzI2NTE2ZDQ3NmZjOGI3Y2ViZmVlMTkiLCJ1c2VybmFtZSI6Im1jb3N0ZXIifSwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE1MDEyMTYxNDUsImhhc2giOiIwOGRmNjk2NTBjNzg3Y2MyMjNlM2M1NDA2MjBkNTM1YjgzYTk0NmNiNGJhZWE5YzViNTNhZjQxNzdjYWY1ODZmZGJmNGEyYzRhNWExZTljN2RiYjgwMjk0Mzc5MGU5NWE4Mjg2YmRmMzEzNmNlM2UwZTliMDNkNzBjZjE0ZThlYyIsImhhc2hfbWV0YSI6ImNhOGM3Y2Q5NDFkOWE2OWFjNThmMTkwNjM3OTljMmE5YWVlODk4MTA2NThiMGZhMTliYjMwMDNiYTY0YTA3Y2UiLCJzZXFubyI6MTI4NzA3Mn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJtY29zdGVyLm5ldCIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMjYifSwiY3RpbWUiOjE1MDEyMTYzNTIsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiYmZmYzE1MmI2Yzk4NTQ5YTBlY2NlODkwMDExMDgyNmEyOTQzMjhkYjYwNDViMDhkZmNhY2IxMzk0OTY1ZmE0MiIsInNlcW5vIjo5LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQAGBwPWqwaV3gLiEkoB2DHDdW/WIiiKZXlVA8IznD/O+KWk0ChHlWfuD15D4GqEU4o3vr6PaSnH1SpbVhVfLuAeoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCCE+3hz1ug2s51Vteb6j2WyNpmXJH54QrS6MdVxOQcO/aN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mcoster
+
+==================================================================
