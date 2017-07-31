@@ -302,6 +302,15 @@
     
     <url>
     
+      <loc>https://mcoster.net/publication/liu2007/</loc>
+      <lastmod>2007-01-19T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://mcoster.net/publication/banister2007/</loc>
       <lastmod>2007-01-01T00:00:00+00:00</lastmod>
     </url>
@@ -338,17 +347,8 @@
     
     <url>
     
-      <loc>https://mcoster.net/publication/liu2007/</loc>
-      <lastmod>2007-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://mcoster.net/publication/issa2006/</loc>
-      <lastmod>2006-01-01T00:00:00+00:00</lastmod>
+      <lastmod>2006-05-10T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -401,8 +401,17 @@
     
     <url>
     
+      <loc>https://mcoster.net/publication/paterson2004/</loc>
+      <lastmod>2004-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://mcoster.net/publication/banwell2003/</loc>
-      <lastmod>2003-01-01T00:00:00+00:00</lastmod>
+      <lastmod>2003-06-11T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -411,7 +420,7 @@
     <url>
     
       <loc>https://mcoster.net/publication/banwell2003a/</loc>
-      <lastmod>2003-01-01T00:00:00+00:00</lastmod>
+      <lastmod>2003-06-11T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -475,6 +484,16 @@
     
       <loc>https://mcoster.net/publication_types/2/</loc>
       <lastmod>2017-05-17T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://mcoster.net/publication_types/6/</loc>
+      <lastmod>2004-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
