@@ -11,6 +11,20 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>A bidirectional synthesis of spiroacetals via Rh(II)-catalysed C-H insertion</title>
+      <link>https://mcoster.net/post/bidirectional-spiros/</link>
+      <pubDate>Mon, 31 Jul 2017 16:04:02 +1000</pubDate>
+      
+      <guid>https://mcoster.net/post/bidirectional-spiros/</guid>
+      <description>&lt;p&gt;Molecules where two rings are joined together through a single atom are known as spirocyclic compounds. A particular type, called spiroacetals, are common in biologically-active from nature. We show, for the first time, an efficient new method for making spiroacetals from simple, acyclic starting materials.&lt;/p&gt;
+
+&lt;p&gt;Spiroacetals are exciting molecular scaffolds for discovering new drugs. Our method takes simple acyclic precursors and, by using small amounts of Rh(II) catalysts, converts them into spiroacetals with 3-dimensional structures that make them potentially useful building blocks for drug discovery.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://mcoster.net/publication/lepage2017/&#34; target=&#34;_blank&#34;&gt;This paper&lt;/a&gt; is one of my proudest basic science achievements. It started with an idle wondering about whether these types of compounds could be made &amp;ldquo;backwards&amp;rdquo; compared to how they had been synthesised in the past. The most common methods for spiroacetal synthesis involve formation of the rings through C-O forming reactions. This new work relies on C-C bond-forming events to form the rings. Although the seed of the idea was planted more than ten years ago, it took time to mature, and the end result is, in many respects, much better than the original idea. I particularly enjoyed getting my hands dirty in the lab to play with aspects of this project during a fantastic period of study leave at the Memorial Sloan-Kettering Cancer Center (MSKCC) with Prof. Derek Tan.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Electronic Lab Notebooks (ELN) for the Open Source Malaria (OSM) initiative: A video tutorial</title>
       <link>https://mcoster.net/post/eln-osm/</link>
       <pubDate>Thu, 27 Jul 2017 22:30:02 +1000</pubDate>
@@ -139,15 +153,6 @@
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
       <guid>https://mcoster.net/publication/pouwer2014/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Total synthesis of (±)-nicolaioidesin B via a highly regio- and diastereoselective Diels-Alder reaction.</title>
-      <link>https://mcoster.net/publication/pigott2014/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://mcoster.net/publication/pigott2014/</guid>
       <description></description>
     </item>
     

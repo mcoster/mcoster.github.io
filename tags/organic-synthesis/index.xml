@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Mark Coster</title>
-    <link>https://mcoster.net/post/</link>
-    <description>Recent content in Posts on Mark Coster</description>
+    <title>Organic Synthesis on Mark Coster</title>
+    <link>https://mcoster.net/tags/organic-synthesis/</link>
+    <description>Recent content in Organic Synthesis on Mark Coster</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Mark Coster</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/post/" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 31 Jul 2017 16:04:02 +1000</lastBuildDate>
+    <atom:link href="/tags/organic-synthesis/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>A bidirectional synthesis of spiroacetals via Rh(II)-catalysed C-H insertion</title>
@@ -21,30 +21,6 @@
 &lt;p&gt;Spiroacetals are exciting molecular scaffolds for discovering new drugs. Our method takes simple acyclic precursors and, by using small amounts of Rh(II) catalysts, converts them into spiroacetals with 3-dimensional structures that make them potentially useful building blocks for drug discovery.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://mcoster.net/publication/lepage2017/&#34; target=&#34;_blank&#34;&gt;This paper&lt;/a&gt; is one of my proudest basic science achievements. It started with an idle wondering about whether these types of compounds could be made &amp;ldquo;backwards&amp;rdquo; compared to how they had been synthesised in the past. The most common methods for spiroacetal synthesis involve formation of the rings through C-O forming reactions. This new work relies on C-C bond-forming events to form the rings. Although the seed of the idea was planted more than ten years ago, it took time to mature, and the end result is, in many respects, much better than the original idea. I particularly enjoyed getting my hands dirty in the lab to play with aspects of this project during a fantastic period of study leave at the Memorial Sloan-Kettering Cancer Center (MSKCC) with Prof. Derek Tan.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Electronic Lab Notebooks (ELN) for the Open Source Malaria (OSM) initiative: A video tutorial</title>
-      <link>https://mcoster.net/post/eln-osm/</link>
-      <pubDate>Thu, 27 Jul 2017 22:30:02 +1000</pubDate>
-      
-      <guid>https://mcoster.net/post/eln-osm/</guid>
-      <description>&lt;p&gt;This video tutorial gives an overview of how to set up and create entries in an Electronic Lab Notebook (ELN). The focus is on how to use the &lt;a href=&#34;http://www.labtrove.org/&#34; target=&#34;_blank&#34;&gt;LabTrove&lt;/a&gt; ELN system to contribute to the &lt;a href=&#34;http://opensourcemalaria.org/&#34; target=&#34;_blank&#34;&gt;Open Source Malaria initiative&lt;/a&gt; as a synthetic chemist.&lt;/p&gt;
-
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/X_tREXdHRE4&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Using GitHub to contribute to the Open Source Malaria (OSM) initiative: A video tutorial</title>
-      <link>https://mcoster.net/post/github-osm/</link>
-      <pubDate>Thu, 27 Jul 2017 22:30:02 +1000</pubDate>
-      
-      <guid>https://mcoster.net/post/github-osm/</guid>
-      <description>&lt;p&gt;This video tutorial gives an overview of how to use &lt;a href=&#34;https://github.com/&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt; to contribute to the &lt;a href=&#34;http://opensourcemalaria.org/&#34; target=&#34;_blank&#34;&gt;Open Source Malaria initiative&lt;/a&gt;.&lt;/p&gt;
-
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/EK1kxajBfEQ&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
 </description>
     </item>
     
