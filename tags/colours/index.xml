@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mark Coster on Mark Coster</title>
-    <link>https://mcoster.net/</link>
-    <description>Recent content in Mark Coster on Mark Coster</description>
+    <title>Colours on Mark Coster</title>
+    <link>https://mcoster.net/tags/colours/</link>
+    <description>Recent content in Colours on Mark Coster</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Mark Coster</copyright>
-    <lastBuildDate>Sun, 09 Jul 2017 20:08:00 +0000</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 18 Aug 2017 15:52:02 +1000</lastBuildDate>
+    <atom:link href="/tags/colours/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Magic Science Show!</title>
@@ -155,145 +155,6 @@
 
 &lt;p&gt;I had a great time and the kids in the audience seemed to like it. Hopefully some of them are inspired by science. Big thanks to Cohan for many hours of preparatory work that he did, and for being my side-kick (or was I his side-kick?..) on the day. Also, huge gratitude to the technical staff in Chemistry at Griffith University for their efforts, and my colleagues, past and present who developed the majority of these demonstrations!&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>A bidirectional synthesis of spiroacetals via Rh(II)-catalysed C-H insertion</title>
-      <link>https://mcoster.net/post/bidirectional-spiros/</link>
-      <pubDate>Mon, 31 Jul 2017 16:04:02 +1000</pubDate>
-      
-      <guid>https://mcoster.net/post/bidirectional-spiros/</guid>
-      <description>&lt;p&gt;Molecules where two rings are joined together through a single atom are known as spirocyclic compounds. A particular type, called spiroacetals, are common in biologically-active from nature. We show, for the first time, an efficient new method for making spiroacetals from simple, acyclic starting materials.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mcoster.net/img/animated-spiro.gif&#34; alt=&#34;animated spiroacetal&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Spiroacetals are exciting molecular scaffolds for discovering new drugs. Our method takes simple acyclic precursors and, by using small amounts of Rh(II) catalysts, converts them into spiroacetals with 3-dimensional structures that make them potentially useful building blocks for drug discovery.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://mcoster.net/publication/lepage2017/&#34; target=&#34;_blank&#34;&gt;This paper&lt;/a&gt; is one of my proudest basic science achievements. It started with an idle wondering about whether these types of compounds could be made &amp;ldquo;backwards&amp;rdquo; compared to how they had been synthesised in the past. The most common methods for spiroacetal synthesis involve formation of the rings through C-O forming reactions. This new work relies on C-C bond-forming events to form the rings. Although the seed of the idea was planted more than ten years ago, it took time to mature, and the end result is, in many respects, much better than the original idea. I particularly enjoyed getting my hands dirty in the lab to play with aspects of this project during a fantastic period of study leave at the Memorial Sloan-Kettering Cancer Center (MSKCC) with Prof. Derek Tan.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Electronic Lab Notebooks (ELN) for the Open Source Malaria (OSM) initiative: A video tutorial</title>
-      <link>https://mcoster.net/post/eln-osm/</link>
-      <pubDate>Thu, 27 Jul 2017 22:30:02 +1000</pubDate>
-      
-      <guid>https://mcoster.net/post/eln-osm/</guid>
-      <description>&lt;p&gt;This video tutorial gives an overview of how to set up and create entries in an Electronic Lab Notebook (ELN). The focus is on how to use the &lt;a href=&#34;http://www.labtrove.org/&#34; target=&#34;_blank&#34;&gt;LabTrove&lt;/a&gt; ELN system to contribute to the &lt;a href=&#34;http://opensourcemalaria.org/&#34; target=&#34;_blank&#34;&gt;Open Source Malaria initiative&lt;/a&gt; as a synthetic chemist.&lt;/p&gt;
-
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/X_tREXdHRE4&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Using GitHub to contribute to the Open Source Malaria (OSM) initiative: A video tutorial</title>
-      <link>https://mcoster.net/post/github-osm/</link>
-      <pubDate>Thu, 27 Jul 2017 22:30:02 +1000</pubDate>
-      
-      <guid>https://mcoster.net/post/github-osm/</guid>
-      <description>&lt;p&gt;This video tutorial gives an overview of how to use &lt;a href=&#34;https://github.com/&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt; to contribute to the &lt;a href=&#34;http://opensourcemalaria.org/&#34; target=&#34;_blank&#34;&gt;Open Source Malaria initiative&lt;/a&gt;.&lt;/p&gt;
-
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/EK1kxajBfEQ&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Open Source Malaria</title>
-      <link>https://mcoster.net/project/osm-project/</link>
-      <pubDate>Sun, 09 Jul 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://mcoster.net/project/osm-project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Enzyme characteristics of pathogen-specific trehalose-6-phosphate phosphatases</title>
-      <link>https://mcoster.net/publication/cross2017a/</link>
-      <pubDate>Wed, 17 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://mcoster.net/publication/cross2017a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The design, synthesis, and anti-inflammatory evaluation of a drug-like library based on the natural product valerenic acid.</title>
-      <link>https://mcoster.net/publication/egbewande2017/</link>
-      <pubDate>Wed, 17 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://mcoster.net/publication/egbewande2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dichloro-naphthoquinone as a non-classical inhibitor of the mycobacterial carbonic anhydrase Rv3588c.</title>
-      <link>https://mcoster.net/publication/dallaston2017/</link>
-      <pubDate>Fri, 12 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://mcoster.net/publication/dallaston2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A bidirectional synthesis of spiroacetals via Rh(II)-catalysed C-H insertion.</title>
-      <link>https://mcoster.net/publication/lepage2017/</link>
-      <pubDate>Fri, 24 Mar 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://mcoster.net/publication/lepage2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Probing function and structure of trehalose-6-phosphate phosphatases from pathogenic organisms suggests distinct molecular groupings.</title>
-      <link>https://mcoster.net/publication/cross2017/</link>
-      <pubDate>Fri, 18 Nov 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://mcoster.net/publication/cross2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Synthesis and antiplasmodial evaluation of analogues based on the tricyclic core of Thiaplakortones A-D.</title>
-      <link>https://mcoster.net/publication/schwartz2015/</link>
-      <pubDate>Tue, 15 Sep 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://mcoster.net/publication/schwartz2015/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Panel docking of small-molecule libraries - Prospects to improve efficiency of lead compound discovery.</title>
-      <link>https://mcoster.net/publication/sarnpitak2015/</link>
-      <pubDate>Wed, 27 May 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://mcoster.net/publication/sarnpitak2015/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rhodium(II)-catalyzed intramolecular C-H insertion α- to oxygen: reactivity, selectivity and applications to natural product synthesis.</title>
-      <link>https://mcoster.net/publication/lombard2015/</link>
-      <pubDate>Tue, 12 May 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://mcoster.net/publication/lombard2015/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Synthesis of _N_-alkylsulfonamides by borane-dimethyl sulfide reduction of _N_-acylsulfonamides.</title>
-      <link>https://mcoster.net/publication/james2015/</link>
-      <pubDate>Mon, 09 Mar 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://mcoster.net/publication/james2015/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Synthesis and antimalarial evaluation of amide and urea derivatives based on the thiaplakortone A natural product scaffold.</title>
-      <link>https://mcoster.net/publication/schwartz2015a/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://mcoster.net/publication/schwartz2015a/</guid>
-      <description></description>
     </item>
     
   </channel>
