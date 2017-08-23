@@ -165,11 +165,28 @@
       <guid>https://mcoster.net/post/bidirectional-spiros/</guid>
       <description>&lt;p&gt;Molecules where two rings are joined together through a single atom are known as spirocyclic compounds. A particular type, called spiroacetals, are common in biologically-active molecules from nature. We show, for the first time, an efficient new method for making spiroacetals from simple, acyclic starting materials.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://mcoster.net/img/animated-spiro.gif&#34; alt=&#34;animated spiroacetal&#34; /&gt;&lt;/p&gt;
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://mcoster.net/img/animated-spiro.gif&#34; alt=&#34;animated spiroacetal&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;A 5,5-spiroacetal synthesised by this method&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
 
 &lt;p&gt;Spiroacetals are exciting molecular scaffolds for discovering new drugs. Our method takes simple acyclic precursors and, by using small amounts of Rh(II) catalysts, converts them into spiroacetals with 3-dimensional structures that make them potentially useful building blocks for drug discovery.&lt;/p&gt;
 
-&lt;div style=&#34;height: 400px; width: 500px; position: relative; width: 100%; margin: 0 auto;&#34; class=&#39;viewer_3Dmoljs&#39; data-href=&#39;/pdb/spiro.pdb&#39; data-backgroundcolor=&#39;0xffffff&#39; data-style=&#39;stick&#39;&gt;&lt;/div&gt;
+&lt;figure&gt;
+  &lt;div style=&#34;height: 400px; width: 500px; position: relative; width: 100%; margin: 0 auto;&#34; class=&#39;viewer_3Dmoljs&#39; data-href=&#39;/pdb/spiro.pdb&#39; data-backgroundcolor=&#39;0xffffff&#39; data-style=&#39;stick&#39;&gt;&lt;/div&gt;
+  &lt;figcaption&gt;
+    &lt;h4&gt;A &lt;em&gt;C&lt;/em&gt;&lt;sub&gt;2&lt;/sub&gt; 5,5-spiroacetal synthesised by this method (interactive!)
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://mcoster.net/publication/lepage2017/&#34; target=&#34;_blank&#34;&gt;This paper&lt;/a&gt; is one of my proudest basic science achievements. It started with an idle wondering about whether these types of compounds could be made &amp;ldquo;backwards&amp;rdquo; compared to how they had been synthesised in the past. The most common methods for spiroacetal synthesis involve formation of the rings through C-O forming reactions. This new work relies on C-C bond-forming events to form the rings. Although the seed of the idea was planted more than ten years ago, it took time to mature, and the end result is, in many respects, much better than the original idea. I particularly enjoyed getting my hands dirty in the lab to play with aspects of this project during a fantastic period of study leave at the Memorial Sloan-Kettering Cancer Center (MSKCC) with Prof. Derek Tan.&lt;/p&gt;
 </description>
