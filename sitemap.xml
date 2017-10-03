@@ -5,6 +5,24 @@
     
     <url>
     
+      <loc>https://mcoster.net/project/soe-project/</loc>
+      <lastmod>2017-10-04T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://mcoster.net/project/sa-project/</loc>
+      <lastmod>2017-10-04T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://mcoster.net/post/presentation-tips/</loc>
       <lastmod>2017-09-10T07:50:02+10:00</lastmod>
     </url>
@@ -539,6 +557,16 @@
     
     <url>
     
+      <loc>https://mcoster.net/tags/cancer/</loc>
+      <lastmod>2017-10-04T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://mcoster.net/categories/</loc>
       <priority>0</priority>
     </url>
@@ -578,6 +606,16 @@
     
     <url>
     
+      <loc>https://mcoster.net/tags/electrochemistry/</loc>
+      <lastmod>2017-10-04T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://mcoster.net/tags/electronic-lab-notebook/</loc>
       <lastmod>2017-07-27T22:30:02+10:00</lastmod>
       <priority>0</priority>
@@ -608,6 +646,16 @@
     
     <url>
     
+      <loc>https://mcoster.net/tags/glioblastoma/</loc>
+      <lastmod>2017-10-04T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://mcoster.net/tags/malaria/</loc>
       <lastmod>2017-07-09T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -629,7 +677,7 @@
     <url>
     
       <loc>https://mcoster.net/tags/med-chem/</loc>
-      <lastmod>2017-07-09T00:00:00+00:00</lastmod>
+      <lastmod>2017-10-04T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -699,7 +747,7 @@
     <url>
     
       <loc>https://mcoster.net/project/</loc>
-      <lastmod>2017-07-09T00:00:00+00:00</lastmod>
+      <lastmod>2017-10-04T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -710,6 +758,16 @@
     
       <loc>https://mcoster.net/publication_types/</loc>
       <lastmod>2017-05-17T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://mcoster.net/tags/redox/</loc>
+      <lastmod>2017-10-04T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

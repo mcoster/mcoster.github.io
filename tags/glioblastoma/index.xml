@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Glioblastoma on Mark Coster</title>
+    <link>https://mcoster.net/tags/glioblastoma/</link>
+    <description>Recent content in Glioblastoma on Mark Coster</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Mark Coster</copyright>
+    <lastBuildDate>Wed, 04 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/glioblastoma/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>New Drugs for the Treatment of Glioblastoma</title>
+      <link>https://mcoster.net/project/sa-project/</link>
+      <pubDate>Wed, 04 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcoster.net/project/sa-project/</guid>
+      <description>&lt;p&gt;Glioblastoma is the most common malignant adult primary brain cancer. Median survival is &amp;lt;15 months and only about 10% of patients survive two years without disease recurrence.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; This dismal situation motivates a search for new therapeutic approaches and in particular therapies which target the chemo/radiation-resistant tumour propagating cells, often referred to as glioma stem cells (GSCs).&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:2&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:2&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; This project seeks to synthesise analogues of an exciting natural product that has anti-cancer activity against GSCs and other cancer stem cells (CSCs).&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:3&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:3&#34;&gt;3&lt;/a&gt;&lt;/sup&gt; The compounds will be evaluated as potential drug candidates and certain derivatives could allow mechanism of action and target identification studies.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://mcoster.net/img/sa.png&#34; alt=&#34;SA&#34; /&gt;&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pubmed/15758009&#34; target=&#34;_blank&#34;&gt;Stupp R, Mason WP, van den Bent MJ, et al. Radiotherapy plus concomitant and adjuvant temozolomide for glioblastoma. &lt;em&gt;N Engl J Med&lt;/em&gt; &lt;strong&gt;2005&lt;/strong&gt;; 352:987-96.&lt;/a&gt;
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:1&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pubmed/16723989&#34; target=&#34;_blank&#34;&gt;Vescovi AL, Galli R, Reynolds BA. Brain tumour stem cells. &lt;em&gt;Nat Rev Cancer&lt;/em&gt; &lt;strong&gt;2006&lt;/strong&gt;; 6:425-36.&lt;/a&gt;
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:2&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34;&gt;&lt;a href=&#34;https://doi.org/10.1016/j.cell.2009.06.034&#34; target=&#34;_blank&#34;&gt;Gupta PB, Onder TT, Jiang G, Tao K, Kuperwasser C, Weinberg RA, Lander ES, Identification of Selective Inhibitors of Cancer Stem Cells by High-Throughput Screening. &lt;em&gt;Cell&lt;/em&gt; &lt;strong&gt;2009&lt;/strong&gt;; 138:645-59.&lt;/a&gt;
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:3&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

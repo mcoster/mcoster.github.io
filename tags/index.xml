@@ -30,6 +30,15 @@
     </item>
     
     <item>
+      <title>Cancer</title>
+      <link>https://mcoster.net/tags/cancer/</link>
+      <pubDate>Wed, 04 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcoster.net/tags/cancer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Chemistry</title>
       <link>https://mcoster.net/tags/chemistry/</link>
       <pubDate>Fri, 18 Aug 2017 15:52:02 +1000</pubDate>
@@ -53,6 +62,15 @@
       <pubDate>Fri, 18 Aug 2017 15:52:02 +1000</pubDate>
       
       <guid>https://mcoster.net/tags/colours/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Electrochemistry</title>
+      <link>https://mcoster.net/tags/electrochemistry/</link>
+      <pubDate>Wed, 04 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcoster.net/tags/electrochemistry/</guid>
       <description></description>
     </item>
     
@@ -84,6 +102,15 @@
     </item>
     
     <item>
+      <title>Glioblastoma</title>
+      <link>https://mcoster.net/tags/glioblastoma/</link>
+      <pubDate>Wed, 04 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcoster.net/tags/glioblastoma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Malaria</title>
       <link>https://mcoster.net/tags/malaria/</link>
       <pubDate>Sun, 09 Jul 2017 00:00:00 +0000</pubDate>
@@ -95,7 +122,7 @@
     <item>
       <title>Med Chem</title>
       <link>https://mcoster.net/tags/med-chem/</link>
-      <pubDate>Sun, 09 Jul 2017 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 04 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>https://mcoster.net/tags/med-chem/</guid>
       <description></description>
@@ -116,33 +143,6 @@
       <pubDate>Thu, 27 Jul 2017 22:30:02 +1000</pubDate>
       
       <guid>https://mcoster.net/tags/open-source-malaria/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Organic Synthesis</title>
-      <link>https://mcoster.net/tags/organic-synthesis/</link>
-      <pubDate>Mon, 31 Jul 2017 16:04:02 +1000</pubDate>
-      
-      <guid>https://mcoster.net/tags/organic-synthesis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Osm</title>
-      <link>https://mcoster.net/tags/osm/</link>
-      <pubDate>Thu, 27 Jul 2017 22:30:02 +1000</pubDate>
-      
-      <guid>https://mcoster.net/tags/osm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Outreach</title>
-      <link>https://mcoster.net/tags/outreach/</link>
-      <pubDate>Fri, 18 Aug 2017 15:52:02 +1000</pubDate>
-      
-      <guid>https://mcoster.net/tags/outreach/</guid>
       <description></description>
     </item>
     

@@ -7,8 +7,66 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Mark Coster</copyright>
-    <lastBuildDate>Sun, 09 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Oct 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="/tags/med-chem/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Med Chem with Potential</title>
+      <link>https://mcoster.net/project/soe-project/</link>
+      <pubDate>Wed, 04 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcoster.net/project/soe-project/</guid>
+      <description>&lt;p&gt;The late-stage derivatisation of bioactive molecules using highly selective synthetic organic chemistry reactions is a convenient and attractive method for the preparation of analogues for determination of structure-activity relationships and with the potential for tuning of physicochemical and ADMET properties. Recent developments in synthetic methodology have greatly expanded the arsenal of highly selective transformations available to the synthetic chemist.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; A particularly recent advance is the development of direct electrochemical reactions on organic molecules&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:2&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:2&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; using convenient ‘all-in-one’ &lt;em&gt;synthetic organic electrochemistry&lt;/em&gt; (&lt;strong&gt;SOE&lt;/strong&gt;) apparatus.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:3&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:3&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://mcoster.net/img/soe-rxns.png&#34; alt=&#34;SOE reactions&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This project will investigate the derivatisation of a selection of bioactive natural and non-natural organic compounds using electrochemical techniques, and the development of new synthetic organic electrochemistry transformations of potential use in drug discovery.&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/8UPQLiR4Fsk&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+&lt;div class=&#34;footnotes&#34;&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pubmed/24468713&#34; target=&#34;_blank&#34;&gt;Robles, O.; Romo, D. &lt;em&gt;Nat. Prod. Rep.&lt;/em&gt; &lt;strong&gt;2014&lt;/strong&gt;, &lt;em&gt;31&lt;/em&gt;, 318–334.&lt;/a&gt;
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:1&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;&lt;a href=&#34;http://pubs.acs.org/doi/abs/10.1021/acscentsci.6b00091&#34; target=&#34;_blank&#34;&gt;Horn, E. J.; Rosen, B. R.; Baran, P. S. &lt;em&gt;ACS Cent. Sci.&lt;/em&gt; &lt;strong&gt;2016&lt;/strong&gt;, &lt;em&gt;2&lt;/em&gt;, 302–308.&lt;/a&gt;
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:2&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34;&gt;&lt;a href=&#34;https://www.ika.com/laboratory-equipment/products/electrochemistry-kit/products/4265/electrasyn-2.0-package&#34; target=&#34;_blank&#34;&gt;IKA ElectraSyn 2.0&lt;/a&gt;
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:3&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New Drugs for the Treatment of Glioblastoma</title>
+      <link>https://mcoster.net/project/sa-project/</link>
+      <pubDate>Wed, 04 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcoster.net/project/sa-project/</guid>
+      <description>&lt;p&gt;Glioblastoma is the most common malignant adult primary brain cancer. Median survival is &amp;lt;15 months and only about 10% of patients survive two years without disease recurrence.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; This dismal situation motivates a search for new therapeutic approaches and in particular therapies which target the chemo/radiation-resistant tumour propagating cells, often referred to as glioma stem cells (GSCs).&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:2&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:2&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; This project seeks to synthesise analogues of an exciting natural product that has anti-cancer activity against GSCs and other cancer stem cells (CSCs).&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:3&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:3&#34;&gt;3&lt;/a&gt;&lt;/sup&gt; The compounds will be evaluated as potential drug candidates and certain derivatives could allow mechanism of action and target identification studies.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://mcoster.net/img/sa.png&#34; alt=&#34;SA&#34; /&gt;&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pubmed/15758009&#34; target=&#34;_blank&#34;&gt;Stupp R, Mason WP, van den Bent MJ, et al. Radiotherapy plus concomitant and adjuvant temozolomide for glioblastoma. &lt;em&gt;N Engl J Med&lt;/em&gt; &lt;strong&gt;2005&lt;/strong&gt;; 352:987-96.&lt;/a&gt;
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:1&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pubmed/16723989&#34; target=&#34;_blank&#34;&gt;Vescovi AL, Galli R, Reynolds BA. Brain tumour stem cells. &lt;em&gt;Nat Rev Cancer&lt;/em&gt; &lt;strong&gt;2006&lt;/strong&gt;; 6:425-36.&lt;/a&gt;
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:2&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34;&gt;&lt;a href=&#34;https://doi.org/10.1016/j.cell.2009.06.034&#34; target=&#34;_blank&#34;&gt;Gupta PB, Onder TT, Jiang G, Tao K, Kuperwasser C, Weinberg RA, Lander ES, Identification of Selective Inhibitors of Cancer Stem Cells by High-Throughput Screening. &lt;em&gt;Cell&lt;/em&gt; &lt;strong&gt;2009&lt;/strong&gt;; 138:645-59.&lt;/a&gt;
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:3&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Open Source Malaria</title>
@@ -16,7 +74,38 @@
       <pubDate>Sun, 09 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>https://mcoster.net/project/osm-project/</guid>
-      <description></description>
+      <description>&lt;p&gt;Open source drug discovery is a non-traditional approach to drug development that is guided by open source principles. All research data is open to everyone and anyone can contribute. This project seeks to contribute to the &lt;a href=&#34;http://opensourcemalaria.org/&#34; target=&#34;_blank&#34;&gt;Open Source Malaria&lt;/a&gt; initiative through the synthesis of desirable new compounds as potential anti-malarial agents.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://mcoster.net/img/osm-series-4.png&#34; alt=&#34;OSM Series 4 compounds&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The project not only emphasises teamwork but also independence and initiative. Due to the open-ended nature of this project, students at all stages of their studies can contribute, from undergraduate to honours projects, MSc, PhD and beyond!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://mcoster.net/img/osm-team-posters-2017.jpg&#34; alt=&#34;OSM Team 2017&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The project follows the six laws of open science:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;First Law&lt;/strong&gt;: All data are open and all ideas are shared.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Second Law&lt;/strong&gt;: Anyone can take part at any level of the project.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Third Law&lt;/strong&gt;: There will be no patents.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Fourth Law&lt;/strong&gt;: Suggestions are the best form of criticism.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Fifth Law&lt;/strong&gt;: Public discussion is much more valuable than private email.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Sixth Law&lt;/strong&gt;: The project is bigger than, and is not owned by, any given lab.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The initiative includes chemists, biologists, bio- and chemo-informaticians collaborating via a number of means, including wikis, open access Electronic Lab Notebooks (ELNs) and a series of highly active &lt;a href=&#34;https://github.com/OpenSourceMalaria&#34; target=&#34;_blank&#34;&gt;GitHub repositories&lt;/a&gt;.&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/gCOokjOiVTc&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+</description>
     </item>
     
   </channel>

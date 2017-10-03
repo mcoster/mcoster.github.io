@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Electrochemistry on Mark Coster</title>
+    <link>https://mcoster.net/tags/electrochemistry/</link>
+    <description>Recent content in Electrochemistry on Mark Coster</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Mark Coster</copyright>
+    <lastBuildDate>Wed, 04 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/electrochemistry/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Med Chem with Potential</title>
+      <link>https://mcoster.net/project/soe-project/</link>
+      <pubDate>Wed, 04 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcoster.net/project/soe-project/</guid>
+      <description>&lt;p&gt;The late-stage derivatisation of bioactive molecules using highly selective synthetic organic chemistry reactions is a convenient and attractive method for the preparation of analogues for determination of structure-activity relationships and with the potential for tuning of physicochemical and ADMET properties. Recent developments in synthetic methodology have greatly expanded the arsenal of highly selective transformations available to the synthetic chemist.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; A particularly recent advance is the development of direct electrochemical reactions on organic molecules&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:2&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:2&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; using convenient ‘all-in-one’ &lt;em&gt;synthetic organic electrochemistry&lt;/em&gt; (&lt;strong&gt;SOE&lt;/strong&gt;) apparatus.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:3&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:3&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://mcoster.net/img/soe-rxns.png&#34; alt=&#34;SOE reactions&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This project will investigate the derivatisation of a selection of bioactive natural and non-natural organic compounds using electrochemical techniques, and the development of new synthetic organic electrochemistry transformations of potential use in drug discovery.&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/8UPQLiR4Fsk&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+&lt;div class=&#34;footnotes&#34;&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pubmed/24468713&#34; target=&#34;_blank&#34;&gt;Robles, O.; Romo, D. &lt;em&gt;Nat. Prod. Rep.&lt;/em&gt; &lt;strong&gt;2014&lt;/strong&gt;, &lt;em&gt;31&lt;/em&gt;, 318–334.&lt;/a&gt;
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:1&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;&lt;a href=&#34;http://pubs.acs.org/doi/abs/10.1021/acscentsci.6b00091&#34; target=&#34;_blank&#34;&gt;Horn, E. J.; Rosen, B. R.; Baran, P. S. &lt;em&gt;ACS Cent. Sci.&lt;/em&gt; &lt;strong&gt;2016&lt;/strong&gt;, &lt;em&gt;2&lt;/em&gt;, 302–308.&lt;/a&gt;
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:2&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34;&gt;&lt;a href=&#34;https://www.ika.com/laboratory-equipment/products/electrochemistry-kit/products/4265/electrasyn-2.0-package&#34; target=&#34;_blank&#34;&gt;IKA ElectraSyn 2.0&lt;/a&gt;
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:3&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
