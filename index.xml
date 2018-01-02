@@ -11,6 +11,77 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Reflections on &#39;Make It Stick&#39;</title>
+      <link>https://mcoster.net/post/make-it-stick/</link>
+      <pubDate>Tue, 02 Jan 2018 16:00:02 +1000</pubDate>
+      
+      <guid>https://mcoster.net/post/make-it-stick/</guid>
+      <description>
+
+&lt;p&gt;This book was recommended to me by &lt;a href=&#34;http://paulhibbitts.net/&#34; target=&#34;_blank&#34;&gt;Paul Hibbitts&lt;/a&gt;, who I recently started corresponding with after using his excellent Course Hub skeleton for Grav in an effort to enhance my teaching of a course.&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe type=&#34;text/html&#34; width=&#34;336&#34; height=&#34;550&#34; frameborder=&#34;0&#34; align=&#34;center&#34; allowfullscreen style=&#34;max-width:100%&#34; src=&#34;https://read.amazon.com.au/kp/card?asin=B00JQ3FN7M&amp;preview=inline&amp;linkCode=kpe&amp;ref_=cm_sw_r_kb_dp_B5XsAbXZD4JCS&#34; &gt;&lt;/iframe&gt;
+&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;A central tenet of the book is that the best, most reliable and efficient techniques for deep learning are not being universally applied.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;People generally are going about learning in the wrong ways.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The authors assert that learning is an acquired skill and the most effective strategies are often counterintuitive. They put forward, with a wealth of well-referenced evidence, the following claims:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Learning is deeper and more durable when it is &lt;em&gt;effortful&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Learners are &lt;em&gt;poor judges&lt;/em&gt; of when they are learning well vs. when they are not.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Re-reading text&lt;/em&gt; and &lt;em&gt;massed practice&lt;/em&gt; are popular study techniques, but are among the &lt;em&gt;least productive&lt;/em&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;em&gt;Retrieval practice&lt;/em&gt; is highly effective - much better than re-reading.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;After a test, students spend more time restudying the material they missed, and they learn more from it than do their peers who restudy the material without having been tested.&lt;/p&gt;
+&lt;/blockquote&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;em&gt;Spaced practice&lt;/em&gt;, eg. letting yourself get a little rusty between sessions or interspersing study of two or more subjects, is harder and feels less productive, but gives longer lasting and more versatile learning.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Trying to solve a problem &lt;em&gt;before being taught the solution&lt;/em&gt; results in better learning.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Receiving instruction in the form of your preferred &lt;em&gt;learning style&lt;/em&gt; does not result in better learning.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;em&gt;Interleaved and varied practice&lt;/em&gt; leads to greater ability to extract &lt;em&gt;underlying principles&lt;/em&gt; which leads to a greater success in choosing the right solutions in unfamiliar situations.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Learners are &lt;em&gt;susceptible to illusions&lt;/em&gt; about what they know and what they can do. Testing helps to calibrate judgments about what has actually been learned.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;New learning requires a &lt;em&gt;foundation of prior knowledge&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;em&gt;Elaboration&lt;/em&gt; - giving new material meaning by expressing it in one&amp;rsquo;s own words and linking with the learner&amp;rsquo;s existing knowledge - avoids limits to how much can be learned.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Putting new knowledge into a &lt;em&gt;larger context&lt;/em&gt; helps learning.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Complex mastery can be achieved by learning to &lt;em&gt;extract the key ideas from new material and organise them into mental models&lt;/em&gt; and connect those models to prior knowledge.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Rather than intellectual ability being hardwired, the brain is highly plastic and adaptive - &lt;em&gt;new learnings change the brain&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;retrieval-practice&#34;&gt;Retrieval practice&lt;/h2&gt;
+
+&lt;p&gt;I found the sections on the benefits of retrieval practice particularly interesting. As a teacher, a take home message for me is that regular, low-stake testing leads to better learning. Indeed, regular post-lecture or eg. weekly quizzes may be the most powerful means to achieving deep and lasting learning from lecture content.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Are there any further, indirect benefits of regular, low-stakes classroom testing? Besides strengthening learning and retention, a regime of this kind of testing improves student attendance.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;And an interesting side-note about online vs in person:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;These benefits of low-stakes testing accrue whether instruction is delivered online or in the classroom.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I got a lot out of reading this book and I&amp;rsquo;m enthusiastic to put a number of new ideas into practice in my teaching in 2018! I highly recommend to anyone involved in teaching and/or learning (isn&amp;rsquo;t that everyone?!). Finally, a big thank again to &lt;a href=&#34;http://paulhibbitts.net/&#34; target=&#34;_blank&#34;&gt;Paul Hibbitts&lt;/a&gt; for the recommendation! :)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Med Chem with Potential</title>
       <link>https://mcoster.net/project/soe-project/</link>
       <pubDate>Wed, 04 Oct 2017 00:00:00 +0000</pubDate>
@@ -399,15 +470,6 @@
       <pubDate>Tue, 15 Sep 2015 00:00:00 +0000</pubDate>
       
       <guid>https://mcoster.net/publication/schwartz2015/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Panel docking of small-molecule libraries - Prospects to improve efficiency of lead compound discovery.</title>
-      <link>https://mcoster.net/publication/sarnpitak2015/</link>
-      <pubDate>Wed, 27 May 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://mcoster.net/publication/sarnpitak2015/</guid>
       <description></description>
     </item>
     

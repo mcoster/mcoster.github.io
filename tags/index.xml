@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>Book</title>
+      <link>https://mcoster.net/tags/book/</link>
+      <pubDate>Tue, 02 Jan 2018 16:00:02 +1000</pubDate>
+      
+      <guid>https://mcoster.net/tags/book/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>C H Insertion</title>
       <link>https://mcoster.net/tags/c-h-insertion/</link>
       <pubDate>Mon, 31 Jul 2017 16:04:02 +1000</pubDate>
@@ -111,6 +120,15 @@
     </item>
     
     <item>
+      <title>Learning</title>
+      <link>https://mcoster.net/tags/learning/</link>
+      <pubDate>Tue, 02 Jan 2018 16:00:02 +1000</pubDate>
+      
+      <guid>https://mcoster.net/tags/learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Malaria</title>
       <link>https://mcoster.net/tags/malaria/</link>
       <pubDate>Sun, 09 Jul 2017 00:00:00 +0000</pubDate>
@@ -125,24 +143,6 @@
       <pubDate>Wed, 04 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>https://mcoster.net/tags/med-chem/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>National Science Week</title>
-      <link>https://mcoster.net/tags/national-science-week/</link>
-      <pubDate>Fri, 18 Aug 2017 15:52:02 +1000</pubDate>
-      
-      <guid>https://mcoster.net/tags/national-science-week/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Open Source Malaria</title>
-      <link>https://mcoster.net/tags/open-source-malaria/</link>
-      <pubDate>Thu, 27 Jul 2017 22:30:02 +1000</pubDate>
-      
-      <guid>https://mcoster.net/tags/open-source-malaria/</guid>
       <description></description>
     </item>
     
