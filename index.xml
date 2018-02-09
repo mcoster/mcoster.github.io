@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Stereoselective bidirectional synthesis of spiroacetals via Rh(II)-catalysed double C–H insertion</title>
+      <link>https://mcoster.net/publication/lepage2018/</link>
+      <pubDate>Wed, 31 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcoster.net/publication/lepage2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Reflections on &#39;Make It Stick&#39;</title>
       <link>https://mcoster.net/post/make-it-stick/</link>
       <pubDate>Tue, 02 Jan 2018 16:00:02 +1000</pubDate>
@@ -82,6 +91,24 @@
     </item>
     
     <item>
+      <title>Synthesis of spirocyclic orthoesters by ‘anomalous’ rhodium(II)-catalysed intramolecular C–H insertions</title>
+      <link>https://mcoster.net/publication/lombard2018/</link>
+      <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcoster.net/publication/lombard2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trehalose-6-phosphate phosphatase as a broad-spectrum therapeutic target against eukaryotic and prokaryotic pathogens</title>
+      <link>https://mcoster.net/publication/cross2017b/</link>
+      <pubDate>Fri, 22 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcoster.net/publication/cross2017b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Med Chem with Potential</title>
       <link>https://mcoster.net/project/soe-project/</link>
       <pubDate>Wed, 04 Oct 2017 00:00:00 +0000</pubDate>
@@ -95,7 +122,7 @@
 
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/8UPQLiR4Fsk&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/8UPQLiR4Fsk&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
  &lt;/div&gt;
 
 &lt;div class=&#34;footnotes&#34;&gt;
@@ -183,7 +210,7 @@
 
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/fevkPq_1ops&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/fevkPq_1ops&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
  &lt;/div&gt;
 
 
@@ -257,7 +284,7 @@
 
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/iql6r2qLFx0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/iql6r2qLFx0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
  &lt;/div&gt;
 
 
@@ -413,7 +440,7 @@
 
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/gCOokjOiVTc&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/gCOokjOiVTc&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
  &lt;/div&gt;
 
 </description>
@@ -443,33 +470,6 @@
       <pubDate>Fri, 12 May 2017 00:00:00 +0000</pubDate>
       
       <guid>https://mcoster.net/publication/dallaston2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A bidirectional synthesis of spiroacetals via Rh(II)-catalysed C-H insertion.</title>
-      <link>https://mcoster.net/publication/lepage2017/</link>
-      <pubDate>Fri, 24 Mar 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://mcoster.net/publication/lepage2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Probing function and structure of trehalose-6-phosphate phosphatases from pathogenic organisms suggests distinct molecular groupings.</title>
-      <link>https://mcoster.net/publication/cross2017/</link>
-      <pubDate>Fri, 18 Nov 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://mcoster.net/publication/cross2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Synthesis and antiplasmodial evaluation of analogues based on the tricyclic core of Thiaplakortones A-D.</title>
-      <link>https://mcoster.net/publication/schwartz2015/</link>
-      <pubDate>Tue, 15 Sep 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://mcoster.net/publication/schwartz2015/</guid>
       <description></description>
     </item>
     
